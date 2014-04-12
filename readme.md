@@ -6,7 +6,7 @@ This is the util module from Keith Peters' wonderful book ["Playing with Chaos"]
 
 ```javascript
 var keycode = require('keycode')
-  , chaosjs = require('../../chaosjs')
+  , chaosjs = require('chaosjs')
   ;
 
 window.onload = init
