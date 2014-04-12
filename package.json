@@ -1,0 +1,25 @@
+{
+  "name": "chaosjs",
+  "version": "0.0.0",
+  "description": "Util module from \"Playing with Chaos\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/chaosjs"
+  },
+  "keywords": [
+    "fractals",
+    "chaos",
+    "util",
+    "playingwithchaos"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeal/chaosjs/issues"
+  },
+  "homepage": "https://github.com/mikeal/chaosjs"
+}
