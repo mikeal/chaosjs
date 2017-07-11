@@ -1,5 +1,7 @@
 ## "Playing with Chaos" util module.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/chaosjs.svg)](https://greenkeeper.io/)
+
 This is the util module from Keith Peters' wonderful book ["Playing with Chaos"]() adapted to a node-style module.
 
 ### Example
